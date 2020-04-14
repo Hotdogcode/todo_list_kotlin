@@ -2,6 +2,7 @@ package com.hotdogcode.todolist
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.hotdogcode.todolist.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
