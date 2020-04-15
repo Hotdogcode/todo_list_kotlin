@@ -11,4 +11,6 @@ data class Note(
     val plantId:String,
     val title:String,
     val subTitle:String
-)
+){
+    override fun toString()= title
+}
